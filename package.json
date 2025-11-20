@@ -1,0 +1,9 @@
+{
+  "name": "release-please-demo",
+  "version": "1.0.0",
+  "description": "Demo for testing release-please workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
