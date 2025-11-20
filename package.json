@@ -1,6 +1,6 @@
 {
   "name": "release-please-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo for testing release-please workflow",
   "main": "index.js",
   "scripts": {
