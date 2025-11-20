@@ -7,3 +7,5 @@ export default helloWorld;
 function goodbyeWorld() {
     console.log("Goodbye, World!");
 }
+
+export { goodbyeWorld };
