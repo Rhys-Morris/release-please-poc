@@ -27,3 +27,4 @@ jobs:
           manifest-file: .release-please-manifest.json
           token: ${{ secrets.RELEASE_PLEASE_GITHUB_TOKEN }}
           target-branch: ${{ github.ref_name }}
+          default-branch: main
