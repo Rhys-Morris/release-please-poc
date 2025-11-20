@@ -3,3 +3,7 @@ function helloWorld() {
 }
 
 export default helloWorld;
+
+function goodbyeWorld() {
+    console.log("Goodbye, World!");
+}
